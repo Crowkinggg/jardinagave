@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <div 
       className="hero-section h-screen flex items-center justify-center text-white bg-cover bg-center bg-fixed bg-no-repeat"
-      style={{ backgroundImage: "url('/public/images/aga2.webp')" }}
+      style={{ backgroundImage: "url('images/aga2.webp')" }}
     >
       <div className="text-center">
         <h1 className="text-5xl md:text-6xl font-bold mb-4">Agave Victoria Jardín</h1>
