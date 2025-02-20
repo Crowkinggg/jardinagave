@@ -13,9 +13,9 @@ const Gallery = () => {
   };
 
   const images = [
-    'public/images/aga1.webp',
-    'public/images/aga3.webp',
-    'public/images/aga4.webp',
+    'images/aga1.webp',
+    'images/aga3.webp',
+    'images/aga4.webp',
     // Add more images as needed
   ];
 
